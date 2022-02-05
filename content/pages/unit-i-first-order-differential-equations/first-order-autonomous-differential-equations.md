@@ -11,7 +11,22 @@ uid: 6d4be452-872f-f9e1-8e76-8fba5cb7a232
 Session Overview
 ----------------
 
-| ![s10.jpg]({{< resource_file 9bd39afd-28c8-3c2d-f015-37667be96298 >}}) |  {{< br >}}{{< br >}} In this session we take a break from linear equations to study autonomous equations. Many systems, e.g. populations, are modeled by autonomous DE's. We will look at the critical points and stability and learn how to predict the long term behavior of these systems without actually solving them. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s10.jpg]({{< resource_file 9bd39afd-28c8-3c2d-f015-37667be96298 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we take a break from linear equations to study autonomous equations. Many systems, e.g. populations, are modeled by autonomous DE's. We will look at the critical points and stability and learn how to predict the long term behavior of these systems without actually solving them.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

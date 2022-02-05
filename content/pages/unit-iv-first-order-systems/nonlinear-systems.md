@@ -8,7 +8,22 @@ uid: 41d04e83-6507-882b-4b90-c8e3f524091e
 
 « [Previous]({{< baseurl >}}/pages/unit-iv-first-order-systems/matrix-exponentials) | [Next]({{< baseurl >}}/pages/unit-iv-first-order-systems/linearization-near-critical-points) »
 
-| ![s36.jpg]({{< resource_file 6179182a-56b3-2c03-5f05-fa7714bb8a91 >}}) |  {{< br >}}{{< br >}} In this session we will introduce a special type of 2x2 nonlinear systems, called autonomous systems. We will then develop some basic terminology and ideas for these systems. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s36.jpg]({{< resource_file 6179182a-56b3-2c03-5f05-fa7714bb8a91 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we will introduce a special type of 2x2 nonlinear systems, called autonomous systems. We will then develop some basic terminology and ideas for these systems.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

@@ -11,7 +11,22 @@ uid: 1160d0a4-4a5b-3600-2e9a-a0fdfe6fa6b8
 Session Overview
 ----------------
 
-| ![s0.jpg]({{< resource_file 0209d226-6065-1414-764b-14c027590abe >}}) |  {{< br >}}{{< br >}} This session establishes some notation and terminology for the course. We review the exponential function, which will play an essential role for us. Finally, we define what we mean by a differential equation and what it means to solve one. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s0.jpg]({{< resource_file 0209d226-6065-1414-764b-14c027590abe >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This session establishes some notation and terminology for the course. We review the exponential function, which will play an essential role for us. Finally, we define what we mean by a differential equation and what it means to solve one.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

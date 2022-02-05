@@ -11,7 +11,22 @@ uid: 13a3393e-1db3-47a0-4aac-5fb088f68093
 Session Overview
 ----------------
 
-| ![s28.jpg]({{< resource_file c31bbd2e-4b30-791b-82eb-803e136f7c17 >}}) |  {{< br >}}{{< br >}} We learn how to compute the inverse Laplace transform. The main techniques are table lookup and partial fractions. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s28.jpg]({{< resource_file c31bbd2e-4b30-791b-82eb-803e136f7c17 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+We learn how to compute the inverse Laplace transform. The main techniques are table lookup and partial fractions.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

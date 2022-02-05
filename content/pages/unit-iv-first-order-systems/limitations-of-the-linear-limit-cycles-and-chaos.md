@@ -8,7 +8,22 @@ uid: d738c767-d051-1230-6ae5-07fea563425d
 
 « [Previous]({{< baseurl >}}/pages/unit-iv-first-order-systems/linearization-near-critical-points) | [Next]({{< baseurl >}}/pages/final-exam) »
 
-| ![s38.jpg]({{< resource_file 01d57763-c993-f8da-9028-0422bd1e36e6 >}}) |  {{< br >}}{{< br >}} In this session we give a brief summary of further topics connected to differential equations. We start with the question of when nonlinear systems have closed trajectories. This is a hard question to answer and not much is known about it. We end with a brief (and very incomplete) description of some "chaotic" systems. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s38.jpg]({{< resource_file 01d57763-c993-f8da-9028-0422bd1e36e6 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we give a brief summary of further topics connected to differential equations. We start with the question of when nonlinear systems have closed trajectories. This is a hard question to answer and not much is known about it. We end with a brief (and very incomplete) description of some "chaotic" systems.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

@@ -11,7 +11,22 @@ uid: 1db21ff5-54d4-5578-7a77-bcaa06755e55
 Session Overview
 ----------------
 
-| ![s17.jpg]({{< resource_file b2c081fa-ace7-4f24-5407-f534b02a1653 >}}) |  {{< br >}}{{< br >}} This session will formally introduce the notion of operators and linearity. Our main example will be p(D), which we have already seen. We will see that linearity is equivalent to the superposition principles, which we have already seen with first-order equations. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s17.jpg]({{< resource_file b2c081fa-ace7-4f24-5407-f534b02a1653 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This session will formally introduce the notion of operators and linearity. Our main example will be p(D), which we have already seen. We will see that linearity is equivalent to the superposition principles, which we have already seen with first-order equations.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

@@ -8,7 +8,22 @@ uid: 63e076a5-12fb-f523-d18c-f5b9e2d4929d
 
 « [Previous]({{< baseurl >}}/pages/unit-iv-first-order-systems/nonlinear-systems) | [Next]({{< baseurl >}}/pages/unit-iv-first-order-systems/limitations-of-the-linear-limit-cycles-and-chaos) »
 
-| ![s37.jpg]({{< resource_file 39be5bdc-29cb-85cf-4f4b-e5f314a44bfb >}}) |  {{< br >}}{{< br >}} In this session we learn how to use a technique called linearization. This technique allows us to apply the qualitative methods we developed for linear systems (in the session on Phase Portraits) to the qualitative sketching of the phase portraits of autonomous nonlinear systems. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s37.jpg]({{< resource_file 39be5bdc-29cb-85cf-4f4b-e5f314a44bfb >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we learn how to use a technique called linearization. This technique allows us to apply the qualitative methods we developed for linear systems (in the session on Phase Portraits) to the qualitative sketching of the phase portraits of autonomous nonlinear systems.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

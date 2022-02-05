@@ -8,7 +8,22 @@ uid: 740fe4ca-9f7f-5daf-cec7-50013536f3c9
 
 « [Previous]({{< baseurl >}}/pages/unit-iv-first-order-systems/qualitative-behavior-phase-portraits) | [Next]({{< baseurl >}}/pages/unit-iv-first-order-systems/nonlinear-systems) »
 
-| ![s35.jpg]({{< resource_file 9a90a899-ce66-768f-0568-e15d90247ac1 >}}) |  {{< br >}}{{< br >}} In this session we will learn the basic linear theory for systems. We will also see how we can write the solutions to both homogeneous and inhomogeneous systems efficiently by using a matrix form, called the fundamental matrix, and then matrix-vector algebra. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s35.jpg]({{< resource_file 9a90a899-ce66-768f-0568-e15d90247ac1 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we will learn the basic linear theory for systems. We will also see how we can write the solutions to both homogeneous and inhomogeneous systems efficiently by using a matrix form, called the fundamental matrix, and then matrix-vector algebra.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

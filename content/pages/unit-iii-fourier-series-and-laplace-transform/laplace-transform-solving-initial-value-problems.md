@@ -11,7 +11,22 @@ uid: 50c3fc82-016d-da7d-1826-dba72ff554ed
 Session Overview
 ----------------
 
-| ![s29.jpg]({{< resource_file 589ae7db-668d-f8bb-08c3-637a7a6ea2bb >}}) |  {{< br >}}{{< br >}} In this session we show the simple relation between the Laplace transform of a function and the Laplace transform of its derivative. We use this to help solve initial value problems for constant coefficient DE's. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s29.jpg]({{< resource_file 589ae7db-668d-f8bb-08c3-637a7a6ea2bb >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we show the simple relation between the Laplace transform of a function and the Laplace transform of its derivative. We use this to help solve initial value problems for constant coefficient DE's.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

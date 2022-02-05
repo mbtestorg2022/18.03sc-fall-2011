@@ -8,7 +8,24 @@ uid: 40ff2d12-b0e9-bf21-b16c-0be6303c5897
 
 « [Previous]({{< baseurl >}}/pages/unit-iv-first-order-systems/matrix-methods-eigenvalues-and-normal-modes) | [Next]({{< baseurl >}}/pages/unit-iv-first-order-systems/matrix-exponentials) »
 
-| ![s34.jpg]({{< resource_file 38459a4a-424a-9310-0fb4-fd3618126004 >}}) |  {{< br >}}{{< br >}} In this session we will leave off looking for exact solutions to constant coefficient systems of DE's and focus on the qualitative features of the solutions. The main tool will be phase portraits, which are sketches of the trajectories of solutions in the xy-plane (now called the phase plane). {{< br >}}{{< br >}} We will see that the qualitative nature of the solutions is determined by the eigenvalues of the coefficient matrix. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s34.jpg]({{< resource_file 38459a4a-424a-9310-0fb4-fd3618126004 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we will leave off looking for exact solutions to constant coefficient systems of DE's and focus on the qualitative features of the solutions. The main tool will be phase portraits, which are sketches of the trajectories of solutions in the xy-plane (now called the phase plane).
+
+We will see that the qualitative nature of the solutions is determined by the eigenvalues of the coefficient matrix.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

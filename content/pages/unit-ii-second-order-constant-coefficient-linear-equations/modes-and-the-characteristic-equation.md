@@ -11,7 +11,24 @@ uid: dde9f135-842a-7894-459c-d501349e5235
 Session Overview
 ----------------
 
-| ![s12.jpg]({{< resource_file db1f812b-7696-b954-ad55-2b709d8315f7 >}}) |  {{< br >}}{{< br >}} We now begin an in depth study of constant coefficient linear equations. These are the most important DE's in 18.03, and we will be studying them up to the last few sessions. {{< br >}}{{< br >}} In this session we will learn algebraic techniques for solving these equations. Exponential functions will play a major role and we will see that higher order linear constant coefficient DE's are similar in many ways to the first order equation x' + kx = 0. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s12.jpg]({{< resource_file db1f812b-7696-b954-ad55-2b709d8315f7 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+We now begin an in depth study of constant coefficient linear equations. These are the most important DE's in 18.03, and we will be studying them up to the last few sessions.
+
+In this session we will learn algebraic techniques for solving these equations. Exponential functions will play a major role and we will see that higher order linear constant coefficient DE's are similar in many ways to the first order equation x' + kx = 0.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

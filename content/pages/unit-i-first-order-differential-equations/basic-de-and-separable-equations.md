@@ -11,7 +11,24 @@ uid: 2f7fcab3-b55b-b888-a9aa-1c209df0024e
 Session Overview
 ----------------
 
-| ![s1.jpg]({{< resource_file 0a688369-1767-2f0e-f43f-2f7c0a57400a >}}) |  {{< br >}}{{< br >}} In this session we will introduce our most important differential equation and its solution: y' = ky. This DE models exponential growth or decay. {{< br >}}{{< br >}} We will also learn how to solve what are called separable equations. Finally, we will see first-order linear models of several physical processes. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s1.jpg]({{< resource_file 0a688369-1767-2f0e-f43f-2f7c0a57400a >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we will introduce our most important differential equation and its solution: y' = ky. This DE models exponential growth or decay.
+
+We will also learn how to solve what are called separable equations. Finally, we will see first-order linear models of several physical processes.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

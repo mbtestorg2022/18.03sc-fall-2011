@@ -11,7 +11,22 @@ uid: e1ac4e84-0236-d0ba-8b39-96546ae414c9
 Session Overview
 ----------------
 
-| ![s24.jpg]({{< resource_file 28453a7b-5579-c8b8-d92d-d110d862d507 >}}) |  {{< br >}}{{< br >}} This session looks closely at discontinuous functions and introduces the notion of an impulse or delta function. The goal is to use these functions as the input to differential equations. Step functions and delta functions are not differentiable in the usual sense, but they do have what we will call generalized derivatives, which are suitable for use in DE's. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s24.jpg]({{< resource_file 28453a7b-5579-c8b8-d92d-d110d862d507 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This session looks closely at discontinuous functions and introduces the notion of an impulse or delta function. The goal is to use these functions as the input to differential equations. Step functions and delta functions are not differentiable in the usual sense, but they do have what we will call generalized derivatives, which are suitable for use in DE's.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

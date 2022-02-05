@@ -11,7 +11,22 @@ uid: 4529e4db-06c2-1cf9-bf59-359267d96fa8
 Session Overview
 ----------------
 
-| ![s26.jpg]({{< resource_file dd5c8799-212f-fa82-46cd-5c02044dcb7e >}}) |  {{< br >}}{{< br >}} We define convolution and use it in Green's formula, which connects the response to arbitrary input q(t) with the unit impulse response. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s26.jpg]({{< resource_file dd5c8799-212f-fa82-46cd-5c02044dcb7e >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+We define convolution and use it in Green's formula, which connects the response to arbitrary input q(t) with the unit impulse response.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

@@ -11,7 +11,22 @@ uid: 9b14d5f8-0e2c-13ac-a14c-8d291d554b14
 Session Overview
 ----------------
 
-| ![s19.jpg]({{< resource_file 8c94e29d-da96-4467-4c05-aaef1993daac >}}) |  {{< br >}}{{< br >}} This session looks at how the response of a system with sinusoidal input changes as the frequency of the input changes. In particular, we will want to understand the gain and the phase as functions of frequency. For the gain, which we call frequency response, we will want to find the frequency that maximizes the response. When this frequency exists we will call it the resonant frequency of the system. For undamped systems it is called pure resonance and corresponds to an infinite amplitude. For damped systems it is called practical resonance and corresponds to a finite amplitude. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s19.jpg]({{< resource_file 8c94e29d-da96-4467-4c05-aaef1993daac >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This session looks at how the response of a system with sinusoidal input changes as the frequency of the input changes. In particular, we will want to understand the gain and the phase as functions of frequency. For the gain, which we call frequency response, we will want to find the frequency that maximizes the response. When this frequency exists we will call it the resonant frequency of the system. For undamped systems it is called pure resonance and corresponds to an infinite amplitude. For damped systems it is called practical resonance and corresponds to a finite amplitude.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

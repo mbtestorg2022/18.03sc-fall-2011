@@ -11,7 +11,22 @@ uid: 4dc0b7d9-6276-143e-0c61-0888caefa273
 Session Overview
 ----------------
 
-| ![s9.jpg]({{< resource_file 9c0bfdce-c34d-4f34-77c0-84aaef1cc258 >}}) |  {{< br >}}{{< br >}} In this session we will study the special case of a linear first order constant coefficient with the input function an exponential. Converting sinusoids to complex exponentials will allow us to handle the very important case of sinusoidal input. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s9.jpg]({{< resource_file 9c0bfdce-c34d-4f34-77c0-84aaef1cc258 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we will study the special case of a linear first order constant coefficient with the input function an exponential. Converting sinusoids to complex exponentials will allow us to handle the very important case of sinusoidal input.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

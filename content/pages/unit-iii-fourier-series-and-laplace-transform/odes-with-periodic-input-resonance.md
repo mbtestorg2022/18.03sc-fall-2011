@@ -11,7 +11,22 @@ uid: 09db90b6-761a-caa8-223d-1233e04d9d6d
 Session Overview
 ----------------
 
-| ![s23.jpg]({{< resource_file d4774068-833c-93d3-3f3c-313970ff1aee >}}) |  {{< br >}}{{< br >}} We learn how to solve constant coefficient DE's with periodic input. The method is to use the solution for a single sinusoidal input, which we developed in Unit 2, and then superposition and the Fourier series for the input. We also discuss the relationship of Fourier series to sound waves. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s23.jpg]({{< resource_file d4774068-833c-93d3-3f3c-313970ff1aee >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+We learn how to solve constant coefficient DE's with periodic input. The method is to use the solution for a single sinusoidal input, which we developed in Unit 2, and then superposition and the Fourier series for the input. We also discuss the relationship of Fourier series to sound waves.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

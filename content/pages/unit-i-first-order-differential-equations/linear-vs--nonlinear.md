@@ -11,7 +11,22 @@ uid: d47cf90f-d372-d21c-7812-510ff789a1e0
 Session Overview
 ----------------
 
-| ![s11.jpg]({{< resource_file 0e5a7796-bc8d-ecf4-8941-1bdb701cf235 >}}) |  {{< br >}}{{< br >}} This session consists of an imaginary dialog written by Prof. Haynes Miller and performed in his 18.03 class in spring 2010. It takes the form of a debate between Linn E. R. representing linear first order ODE's and Chao S. doing the same for first order nonlinear ODE's. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s11.jpg]({{< resource_file 0e5a7796-bc8d-ecf4-8941-1bdb701cf235 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This session consists of an imaginary dialog written by Prof. Haynes Miller and performed in his 18.03 class in spring 2010. It takes the form of a debate between Linn E. R. representing linear first order ODE's and Chao S. doing the same for first order nonlinear ODE's.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

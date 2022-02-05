@@ -11,7 +11,22 @@ uid: df3149e1-a7f5-a2cc-28e6-5b462671494e
 Session Overview
 ----------------
 
-| ![s20.jpg]({{< resource_file 8c29b711-a054-159d-003d-8d60f842eb3c >}}) |  {{< br >}}{{< br >}} In this session we show how to model some basic electrical circuits with constant coefficient DE's. We will see that the DE's are identical to those for the mechanical systems studied earlier. We will also use complex techniques to define and understand impedance in these circuits. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s20.jpg]({{< resource_file 8c29b711-a054-159d-003d-8d60f842eb3c >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we show how to model some basic electrical circuits with constant coefficient DE's. We will see that the DE's are identical to those for the mechanical systems studied earlier. We will also use complex techniques to define and understand impedance in these circuits.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

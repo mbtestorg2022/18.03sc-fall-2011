@@ -11,7 +11,24 @@ uid: fcc68029-d25e-a966-8f8d-74338ab4c023
 Session Overview
 ----------------
 
-| ![s13.jpg]({{< resource_file 75972e39-82d7-6c46-5992-e4ab0ad128da >}}) |  {{< br >}}{{< br >}} In this session we apply the characteristic equation technique to study the second order linear DE mx" + bx'+ kx' = 0. We will use this DE to model a damped harmonic oscillator. (The oscillator we have in mind is a spring-mass-dashpot system.) {{< br >}}{{< br >}} We will see how the damping term, b, affects the behavior of the system. The system will be called overdamped, underdamped or critically damped depending on the value of b. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s13.jpg]({{< resource_file 75972e39-82d7-6c46-5992-e4ab0ad128da >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we apply the characteristic equation technique to study the second order linear DE mx" + bx'+ kx' = 0. We will use this DE to model a damped harmonic oscillator. (The oscillator we have in mind is a spring-mass-dashpot system.)
+
+We will see how the damping term, b, affects the behavior of the system. The system will be called overdamped, underdamped or critically damped depending on the value of b.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

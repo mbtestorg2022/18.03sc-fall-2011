@@ -11,7 +11,22 @@ uid: 0d78ffc3-e5f4-5556-afa4-95492cde6c39
 Session Overview
 ----------------
 
-| ![s4.jpg]({{< resource_file b13605ba-a047-56f6-9b6f-d2c7216acdf7 >}}) |  {{< br >}}{{< br >}} In this session we will start our study of linear equations, which is probably the most important class of differential equations. We will introduce the ideas and terminology of superposition, systems, input and response which will be used for the rest of the course. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s4.jpg]({{< resource_file b13605ba-a047-56f6-9b6f-d2c7216acdf7 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we will start our study of linear equations, which is probably the most important class of differential equations. We will introduce the ideas and terminology of superposition, systems, input and response which will be used for the rest of the course.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

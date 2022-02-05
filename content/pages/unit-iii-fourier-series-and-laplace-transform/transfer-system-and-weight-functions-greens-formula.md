@@ -11,7 +11,22 @@ uid: 7aec48b0-f081-8690-a2c7-6f43a870c1a3
 Session Overview
 ----------------
 
-| ![s30.jpg]({{< resource_file ce175f71-6098-c5b6-8098-199195b402ed >}}) |  {{< br >}}{{< br >}} This session ties together convolution, Laplace transform, unit impulse response and Green's formula. They all meet in the notion of a transfer function (also known as a system function). We will define the transfer function and explore its uses in understanding systems and in combining simple systems to form more complex ones. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s30.jpg]({{< resource_file ce175f71-6098-c5b6-8098-199195b402ed >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This session ties together convolution, Laplace transform, unit impulse response and Green's formula. They all meet in the notion of a transfer function (also known as a system function). We will define the transfer function and explore its uses in understanding systems and in combining simple systems to form more complex ones.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

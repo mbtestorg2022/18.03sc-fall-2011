@@ -11,7 +11,22 @@ uid: 86c3ecfb-976d-d6c8-1796-f0e0e78ca617
 Session Overview
 ----------------
 
-| ![s2.jpg]({{< resource_file c50f5002-6913-e79e-0236-edde9e97801d >}}) |  {{< br >}}{{< br >}} In this session we will look at graphical methods for visualizing DE's and their solutions. The primary tool for doing this will be the direction field. We will learn techniques to sketch this by hand and also learn to use direction fields drawn by the computer. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s2.jpg]({{< resource_file c50f5002-6913-e79e-0236-edde9e97801d >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we will look at graphical methods for visualizing DE's and their solutions. The primary tool for doing this will be the direction field. We will learn techniques to sketch this by hand and also learn to use direction fields drawn by the computer.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

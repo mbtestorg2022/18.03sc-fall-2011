@@ -11,7 +11,24 @@ uid: 3689226a-36ca-8c2d-8d7f-34ad74678477
 Session Overview
 ----------------
 
-| ![s8.jpg]({{< resource_file d668d494-8a6c-7852-53b0-2f400e12e928 >}}) |  {{< br >}}{{< br >}} In this session we focus on constant coefficient equations. That is, the equation y' + ky = f(t), where k is a constant. {{< br >}}{{< br >}} Since we already know how to solve the general first order linear DE this will be a special case. Studying it will pave the way for studying higher order constant coefficient equations in later sessions. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s8.jpg]({{< resource_file d668d494-8a6c-7852-53b0-2f400e12e928 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we focus on constant coefficient equations. That is, the equation y' + ky = f(t), where k is a constant.
+
+Since we already know how to solve the general first order linear DE this will be a special case. Studying it will pave the way for studying higher order constant coefficient equations in later sessions.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

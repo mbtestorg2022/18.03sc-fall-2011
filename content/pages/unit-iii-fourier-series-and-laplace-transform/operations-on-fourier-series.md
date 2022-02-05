@@ -11,7 +11,22 @@ uid: ca45c161-8345-1041-6c66-419481c20e93
 Session Overview
 ----------------
 
-| ![s22.jpg]({{< resource_file ace999d0-3d59-3e87-c480-9f848c6b7a84 >}}) |  {{< br >}}{{< br >}} In this session we will learn some tricks to help compute Fourier series, and also see in what sense a periodic function equals its Fourier series. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s22.jpg]({{< resource_file ace999d0-3d59-3e87-c480-9f848c6b7a84 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we will learn some tricks to help compute Fourier series, and also see in what sense a periodic function equals its Fourier series.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

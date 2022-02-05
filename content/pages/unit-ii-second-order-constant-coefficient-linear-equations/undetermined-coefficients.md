@@ -11,7 +11,22 @@ uid: 997c993c-eb52-2721-308a-867f2c1e5ac3
 Session Overview
 ----------------
 
-| ![s16.jpg]({{< resource_file a9df25e9-903e-f17d-ece3-747950d8bbfc >}}) |  {{< br >}}{{< br >}} In this session we consider constant coefficient linear DE's with polynomial input. The method of undetermined coefficients says to try a polynomial solution leaving the coefficients "undetermined." Then substitute this trial solution into the DE and solve for the coefficients. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s16.jpg]({{< resource_file a9df25e9-903e-f17d-ece3-747950d8bbfc >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we consider constant coefficient linear DE's with polynomial input. The method of undetermined coefficients says to try a polynomial solution leaving the coefficients "undetermined." Then substitute this trial solution into the DE and solve for the coefficients.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

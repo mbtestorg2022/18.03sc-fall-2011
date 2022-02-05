@@ -11,7 +11,22 @@ uid: ae5a9153-e84a-4720-7bba-52a575f9d6d8
 Session Overview
 ----------------
 
-| ![s25.jpg]({{< resource_file e7e64686-7237-8153-a956-8cc069799258 >}}) |  {{< br >}}{{< br >}} In this session we study differential equations with step or delta functions as input. For physical systems, this means that we are looking at discontinuous or impulsive inputs to the system. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s25.jpg]({{< resource_file e7e64686-7237-8153-a956-8cc069799258 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we study differential equations with step or delta functions as input. For physical systems, this means that we are looking at discontinuous or impulsive inputs to the system.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

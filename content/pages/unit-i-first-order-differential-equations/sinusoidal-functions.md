@@ -11,7 +11,22 @@ uid: a4e8634f-4a46-e6ae-1032-0d6aed6b9dff
 Session Overview
 ----------------
 
-| ![s7.jpg]({{< resource_file 11fc619b-836b-ee95-4e01-cf01d548bb1d >}}) |  {{< br >}}{{< br >}} Euler's formula describes how sinusoidal functions go hand in hand with complex numbers. In addition, we will often use sinusoidal functions as input to our systems. This session lays out the terms and formulas we will need when working with these functions. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s7.jpg]({{< resource_file 11fc619b-836b-ee95-4e01-cf01d548bb1d >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Euler's formula describes how sinusoidal functions go hand in hand with complex numbers. In addition, we will often use sinusoidal functions as input to our systems. This session lays out the terms and formulas we will need when working with these functions.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

@@ -11,7 +11,24 @@ uid: 54d03b40-8dd2-7385-59db-03f6f1ebac22
 Session Overview
 ----------------
 
-| ![s3.jpg]({{< resource_file db1a40a3-d736-f749-e70d-b8cc17df729c >}}) |  {{< br >}}{{< br >}} Many differential equations cannot be solved exactly. For these DE's we can use numerical methods to get approximate solutions. In the previous session the computer used numerical methods to draw the integral curves. {{< br >}}{{< br >}} We will start with Euler's method. This is the simplest numerical method, akin to approximating integrals using rectangles, but it contains the basic idea common to all the numerical methods we will look at. We will also discuss more sophisticated methods that give better approximations. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s3.jpg]({{< resource_file db1a40a3-d736-f749-e70d-b8cc17df729c >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Many differential equations cannot be solved exactly. For these DE's we can use numerical methods to get approximate solutions. In the previous session the computer used numerical methods to draw the integral curves.
+
+We will start with Euler's method. This is the simplest numerical method, akin to approximating integrals using rectangles, but it contains the basic idea common to all the numerical methods we will look at. We will also discuss more sophisticated methods that give better approximations.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

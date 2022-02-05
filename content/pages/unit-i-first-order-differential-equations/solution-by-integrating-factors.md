@@ -11,7 +11,22 @@ uid: 85e38b6f-c1b6-5066-bdac-31cdc301c1a6
 Session Overview
 ----------------
 
-| ![s5.jpg]({{< resource_file 5e73d9e8-9c68-81ac-b5a4-b85ca88378bb >}}) |  {{< br >}}{{< br >}} In this session we will learn how to solve first order linear equations. We will apply the technique to solve the DE's for several different models. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s5.jpg]({{< resource_file 5e73d9e8-9c68-81ac-b5a4-b85ca88378bb >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we will learn how to solve first order linear equations. We will apply the technique to solve the DE's for several different models.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

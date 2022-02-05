@@ -11,7 +11,22 @@ uid: 04f0717c-e427-8b51-ee36-28a4b0f54b1f
 Session Overview
 ----------------
 
-| ![s18.jpg]({{< resource_file c6653feb-82d4-a955-0a54-8e8a69d9d1ac >}}) |  {{< br >}}{{< br >}} In this session we study the undamped harmonic oscillator forced at its natural frequency. In this case the system responds by oscillating with an amplitude that grows to infinity over time. This is what is called pure resonance. Mathematically it is the case p(a) = 0 in the Exponential Response Formula. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s18.jpg]({{< resource_file c6653feb-82d4-a955-0a54-8e8a69d9d1ac >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we study the undamped harmonic oscillator forced at its natural frequency. In this case the system responds by oscillating with an amplitude that grows to infinity over time. This is what is called pure resonance. Mathematically it is the case p(a) = 0 in the Exponential Response Formula.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

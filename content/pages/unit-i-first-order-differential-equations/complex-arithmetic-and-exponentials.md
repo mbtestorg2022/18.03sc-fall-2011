@@ -11,7 +11,22 @@ uid: 69221f05-4c8b-250b-3c36-eaf8a4e65a9f
 Session Overview
 ----------------
 
-| ![s6.jpg]({{< resource_file f51a8a57-f500-1b6d-2fcc-9a158d7562bb >}}) |  {{< br >}}{{< br >}} In this session we will learn complex arithmetic and Euler's formula. These are important algebraic tools used throughout the course. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s6.jpg]({{< resource_file f51a8a57-f500-1b6d-2fcc-9a158d7562bb >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we will learn complex arithmetic and Euler's formula. These are important algebraic tools used throughout the course.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

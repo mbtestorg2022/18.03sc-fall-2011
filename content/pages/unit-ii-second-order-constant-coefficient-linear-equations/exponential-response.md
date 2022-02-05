@@ -11,7 +11,22 @@ uid: afa50382-4b4d-f214-67a3-8bdb6a9d0e27
 Session Overview
 ----------------
 
-| ![s14.jpg]({{< resource_file 12667c7f-490b-67ed-eba5-c1a138219ca8 >}}) |  {{< br >}}{{< br >}} In this session we will add input to our differential equations. In particular, we will look at constant coefficient linear equations with exponential input. Because of Euler's formula we will be able to use this and complex arithmetic to include the key case of sinusoidal input. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s14.jpg]({{< resource_file 12667c7f-490b-67ed-eba5-c1a138219ca8 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we will add input to our differential equations. In particular, we will look at constant coefficient linear equations with exponential input. Because of Euler's formula we will be able to use this and complex arithmetic to include the key case of sinusoidal input.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

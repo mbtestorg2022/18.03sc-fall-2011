@@ -8,7 +8,22 @@ uid: e32640ee-078f-3682-feef-7b3ae9a7e8c9
 
 « [Previous]({{< baseurl >}}/pages/unit-iv-first-order-systems/linear-systems-introduction) | [Next]({{< baseurl >}}/pages/unit-iv-first-order-systems/qualitative-behavior-phase-portraits) »
 
-| ![s33.jpg]({{< resource_file 2f8a0d7a-2d51-aa21-26d3-9ac36597b274 >}}) |  {{< br >}}{{< br >}} In this session we learn matrix methods for solving constant coefficient linear systems of DE's. This method will supersede the method of elimination used in the last session. In order to use matrix methods we will need to learn about eigenvalues and eigenvectors of matrices. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s33.jpg]({{< resource_file 2f8a0d7a-2d51-aa21-26d3-9ac36597b274 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this session we learn matrix methods for solving constant coefficient linear systems of DE's. This method will supersede the method of elimination used in the last session. In order to use matrix methods we will need to learn about eigenvalues and eigenvectors of matrices.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

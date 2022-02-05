@@ -11,7 +11,26 @@ uid: c8408cf2-8d7b-0ccf-f919-cc7e5cf977ce
 Session Overview
 ----------------
 
-| ![s15.jpg]({{< resource_file debe3918-e75a-8687-86c3-7252c4b915c1 >}}) |  {{< br >}}{{< br >}} The purpose of this session is to introduce the operator notation p(D). This will simplify the writing of differential equations and point the way to a more complete discussion of operators and their uses in a few sessions. {{< br >}}{{< br >}} We will start with the important notion of stability which tells us that the system will respond in essentially the same way to a given input regardless of the initial conditions. {{< br >}}{{< br >}} After that, we will learn to express the formulas for exponential response, sinusoidal response, gain and phase lag in the p(D) notation. We will make heavy use of these formulas in the coming sessions. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s15.jpg]({{< resource_file debe3918-e75a-8687-86c3-7252c4b915c1 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The purpose of this session is to introduce the operator notation p(D). This will simplify the writing of differential equations and point the way to a more complete discussion of operators and their uses in a few sessions.
+
+We will start with the important notion of stability which tells us that the system will respond in essentially the same way to a given input regardless of the initial conditions.
+
+After that, we will learn to express the formulas for exponential response, sinusoidal response, gain and phase lag in the p(D) notation. We will make heavy use of these formulas in the coming sessions.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

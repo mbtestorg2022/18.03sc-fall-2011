@@ -11,7 +11,24 @@ uid: 7704ad07-83f7-1720-a984-a52df1fbe360
 Session Overview
 ----------------
 
-| ![s32.jpg]({{< resource_file 1583e776-e46a-5553-4dd3-c289073fb9d1 >}}) |  {{< br >}}{{< br >}} This session begins our study of systems of differential equations. Systems of DE's have more than one unknown variable. This can happen if you have two or more variables that interact with each other and each influences the other's growth rate. {{< br >}}{{< br >}} The first thing we'll do is to solve a system of linear DE's using elimination. We do this first, because this method is already available to us right now. Starting in the next session we will learn about matrix methods and these will be our preferred approach to solving and understanding systems of DE's. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s32.jpg]({{< resource_file 1583e776-e46a-5553-4dd3-c289073fb9d1 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This session begins our study of systems of differential equations. Systems of DE's have more than one unknown variable. This can happen if you have two or more variables that interact with each other and each influences the other's growth rate.
+
+The first thing we'll do is to solve a system of linear DE's using elimination. We do this first, because this method is already available to us right now. Starting in the next session we will learn about matrix methods and these will be our preferred approach to solving and understanding systems of DE's.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

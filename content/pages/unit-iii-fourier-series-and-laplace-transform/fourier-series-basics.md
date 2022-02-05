@@ -11,7 +11,22 @@ uid: 074becc5-a6a6-3335-7815-bb2ca82e3a15
 Session Overview
 ----------------
 
-| ![s21.jpg]({{< resource_file 56ba3ae3-07d1-4efb-322b-eaf7cd63e53c >}}) |  {{< br >}}{{< br >}} We introduce general periodic functions and learn how to express them as Fourier series, which are sums of sines and cosines. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s21.jpg]({{< resource_file 56ba3ae3-07d1-4efb-322b-eaf7cd63e53c >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+We introduce general periodic functions and learn how to express them as Fourier series, which are sums of sines and cosines.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

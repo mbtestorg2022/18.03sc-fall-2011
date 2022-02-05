@@ -11,7 +11,22 @@ uid: 39a463dc-beac-67f1-8e36-99b2587d2c7d
 Session Overview
 ----------------
 
-| ![s27.jpg]({{< resource_file c94faf43-0d09-aa78-5b19-da17755deb9d >}}) |  {{< br >}}{{< br >}} We introduce the Laplace transform. This is an important session which covers both the conceptual and beginning computational aspects of the topic. Fortunately, we have lots of Professor Mattuck's videos to complement the written exposition. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s27.jpg]({{< resource_file c94faf43-0d09-aa78-5b19-da17755deb9d >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+We introduce the Laplace transform. This is an important session which covers both the conceptual and beginning computational aspects of the topic. Fortunately, we have lots of Professor Mattuck's videos to complement the written exposition.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

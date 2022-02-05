@@ -11,7 +11,22 @@ uid: 9caaa587-c1e7-c531-0115-9c1470153038
 Session Overview
 ----------------
 
-| ![s31.jpg]({{< resource_file b1ec324d-50db-74bf-a55e-8667506cc218 >}}) |  {{< br >}}{{< br >}} Poles summarize the stability of a system, the rate it returns to equilibrium after its been disturbed, and the gain of the system in response to sinusoidal input. In this session we will define the poles of a system, learn their properties and how to use pole diagrams to represent them visually. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![s31.jpg]({{< resource_file b1ec324d-50db-74bf-a55e-8667506cc218 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Poles summarize the stability of a system, the rate it returns to equilibrium after its been disturbed, and the gain of the system in response to sinusoidal input. In this session we will define the poles of a system, learn their properties and how to use pole diagrams to represent them visually.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
