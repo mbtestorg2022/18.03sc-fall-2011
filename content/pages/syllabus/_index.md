@@ -14,9 +14,9 @@ The laws of nature are expressed as differential equations. Scientists and engin
 Prerequisites
 -------------
 
-At MIT, 18.03 Differential Equations has [18.01 Single Variable Calculus](/courses/18-01-single-variable-calculus-fall-2006/pages/index.htm) as a prerequisite. [18.02 Multivariable Calculus](/courses/18-02-multivariable-calculus-spring-2006/pages/index.htm) is a corequisite, meaning students can take 18.02 and 18.03 simultaneously. From 18.02 we will expect knowledge of vectors, the arithmetic of matrices, and some simple properties of vector valued functions.
+At MIT, 18.03 Differential Equations has [18.01 Single Variable Calculus](/courses/18-01-single-variable-calculus-fall-2006) as a prerequisite. [18.02 Multivariable Calculus](/courses/18-02-multivariable-calculus-spring-2006) is a corequisite, meaning students can take 18.02 and 18.03 simultaneously. From 18.02 we will expect knowledge of vectors, the arithmetic of matrices, and some simple properties of vector valued functions.
 
-OCW users will find [18.01SC Single Variable Calculus](/courses/18-01sc-single-variable-calculus-fall-2010/pages/index.htm) and [18.02SC Multivariable Calculus](/courses/18-02sc-multivariable-calculus-fall-2010/pages/index.htm) useful in preparing for this course.
+OCW users will find [18.01SC Single Variable Calculus](/courses/18-01sc-single-variable-calculus-fall-2010) and [18.02SC Multivariable Calculus](/courses/18-02sc-multivariable-calculus-fall-2010) useful in preparing for this course.
 
 Course Goals
 ------------

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 21829777-b759-4964-a24e-c8685361f3d2
 resourcetype: Image
 title: Orloff_Photo.jpg
 uid: 6c5f3cb3-7de2-b55c-05db-357df3867b62

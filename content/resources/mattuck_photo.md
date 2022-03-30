@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 21829777-b759-4964-a24e-c8685361f3d2
 resourcetype: Image
 title: Mattuck_Photo.jpg
 uid: 592ecc7a-0292-2a84-6c55-e45926764adf

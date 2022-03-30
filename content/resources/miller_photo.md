@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 21829777-b759-4964-a24e-c8685361f3d2
 resourcetype: Image
 title: Miller_Photo.jpg
 uid: 58b3770a-846c-be04-ca90-8161a0dcb360

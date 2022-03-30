@@ -4,6 +4,7 @@ description: This resource contains information related to existence and uniquen
   and superposition in the general case.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-03sc-differential-equations-fall-2011/8ae57eb392d85ce692965b97dda608fc_MIT18_03SCF11_s35_4text.pdf
 file_type: application/pdf
+parent_uid: 740fe4ca-9f7f-5daf-cec7-50013536f3c9
 resourcetype: Document
 title: '18.03SCF11 text: Existence and Uniqueness and Superposition in the General
   Case'

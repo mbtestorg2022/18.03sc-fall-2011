@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 21829777-b759-4964-a24e-c8685361f3d2
 resourcetype: Image
 title: JLewis_Photo.jpg
 uid: f63da2e3-f7c5-8c8c-6d5c-f379c8ce0446

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 26908f85-4e2c-8f70-f855-103e2a50f442
 resourcetype: Image
 title: David_Photo.jpg
 uid: 8f63f7d5-5fad-8d0c-7cf4-fc7b1b5e4a12

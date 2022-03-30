@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 26908f85-4e2c-8f70-f855-103e2a50f442
 resourcetype: Image
 title: Lydia_photo.jpg
 uid: e37c63ce-e599-15c4-e2ce-1910dc246aef
